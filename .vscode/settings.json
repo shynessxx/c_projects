@@ -55,5 +55,6 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false
+  "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "C_Cpp.default.compilerPath": "D:/extra load/x86_64-6.3.0-release-win32-seh-rt_v5-rev2/mingw64/bin/gcc.exe"
 }

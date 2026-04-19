@@ -16,8 +16,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/c_projects/test1",
-      "program": "d:/c_projects/test1/build/Debug/outDebug",
+      "cwd": "d:/c_projects/test4",
+      "program": "d:/c_projects/test4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
